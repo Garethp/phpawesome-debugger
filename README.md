@@ -12,4 +12,4 @@ At the moment it relies on a plugin called [vdebug](https://github.com/joonty/vd
 to use a fork (found [here](https://github.com/Garethp/vdebug)) that exposes some functions that we need
 
 ### Usage
-When in a file, simply Press <Shift-F9> to run that file in debug mode
+When in a file, simply Press `<Shift-F9>` to run that file in debug mode
